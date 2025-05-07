@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -21,7 +21,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-=======
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -55,4 +55,6 @@ build/
 
 ### VS Code ###
 .vscode/
->>>>>>> 047638d (Inicialización del proyecto Spring Boot - Librería)
+
+/_
+
