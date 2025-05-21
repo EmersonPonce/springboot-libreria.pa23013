@@ -1,3 +1,3 @@
 Java 21
 host ip de la maquina 
-base de datos pgdatabase
+base de datos postgres
